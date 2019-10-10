@@ -13,7 +13,7 @@ using System.Runtime.Serialization.Json;
 using System.Runtime.Serialization;
 using Autodesk.AutoCAD.Windows;
 
-namespace ElectricPanels
+namespace CAD_API_Samples_Electrical_Drawings
 {
   public class Node
     {
